@@ -1,0 +1,2 @@
+var MOVE_SPEED = 1;
+var ROTATE_SPEED = 3.5;
